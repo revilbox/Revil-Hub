@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://gist.github.com/revilbox/d526467ae4f024c30418aceb2ac43c51'),true))()
+loadstring(game:HttpGet(('https://gist.githubusercontent.com/revilbox/d526467ae4f024c30418aceb2ac43c51/raw/c541bb993ce3ae309a1aa5e4980e7aebd4b1bd96/gistfile1.lua'),true))()
