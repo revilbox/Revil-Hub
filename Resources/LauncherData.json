@@ -1,6 +1,7 @@
 {
     "NewsData": [
-        [1, "05/05/2026 - First test of the GUI."]
+        [1, "05/05/2026 - First test of the GUI."],
+        [2, "06/05/2026 - The first launch of the hub. I hope at least someone will find my hub, thanks to whoever noticed my hub!"]
     ],
     "StatusData": {
         "EzHub": "Online",
