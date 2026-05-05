@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.github.com/revilbox/0299db5ab5ee14a5d1101baa0d968d4b"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
