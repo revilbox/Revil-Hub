@@ -428,7 +428,7 @@ EzLauncher.NewsSection.ContentFrame.ScrollBarImageColor3 = Color3.fromRGB(112, 1
 EzLauncher.EzLauncher.Enabled = false;
 
 local launcherData = game:GetService("HttpService"):JSONDecode(
-	(game:HttpGet("https://raw.githubusercontent.com/revilbox/Revil-Hub/refs/heads/main/Resources/LauncherData.json")));
+	(game:HttpGet("https://gist.githubusercontent.com/revilbox/842238000edafd4d9087e98b8a43f508/raw/38862492232eea98911657fc94301a09b2bd4678/LauncherData.json")));
 
 EzLauncher.EzLauncher.Enabled = true;
 
