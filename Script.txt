@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('loadstring(game:HttpGet(('https://raw.githubusercontent.com/revilbox/Revil-Hub/refs/heads/main/Resources/Launcher.lua'),true))()'),true))()
+loadstring(game:HttpGet(('loadstring(game:HttpGet(('https://github.com/revilbox/Revil-Hub/blob/main/Resources/Launcher.lua'),true))()'),true))()
