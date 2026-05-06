@@ -1,1 +1,8 @@
-loadstring(game:HttpGet(('https://github.com/revilbox/Revil-Hub/blob/main/Resources/Launcher.lua'),true))()
+local url = "https://raw.githubusercontent.com/revilbox/Revil-Hub/refs/heads/main/Resources/Launcher.lua"
+local success, content = pcall(function() return game:HttpGet(url, true) end)
+
+if success and content then
+    loadstring(content)()
+else
+    warn("Revil-Hub: Не удалось загрузить Launcher.lua")
+end
