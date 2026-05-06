@@ -1,5 +1,5 @@
 {
-    "ezlib": "https://raw.githubusercontent.com/debug420/Ez-Hub/master/Modules/EzLib.lua",
+    "ezlib": "https://raw.githubusercontent.com/revilbox/Revil-Hub/refs/heads/main/Resources/Hub/Modules/RevilLib.lua",
     "launcherdata": "https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/LauncherData.json",
     "lexermodule": "https://raw.githubusercontent.com/debug420/Ez-Hub/master/Modules/LexerModule.lua",
     "aimbotmodule": "https://raw.githubusercontent.com/debug420/Ez-Hub/master/Exclusives-V2/Modules/AimbotModule.lua",
