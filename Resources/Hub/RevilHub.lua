@@ -527,7 +527,7 @@ do
 	EzHub.TextLabel_2.Position = UDim2.new(0.409254879, 0, 0.181494668, 0)
 	EzHub.TextLabel_2.Size = UDim2.new(0, 41, 0, 54)
 	EzHub.TextLabel_2.Font = Enum.Font.Cartoon
-	EzHub.TextLabel_2.Text = "Ez"
+	EzHub.TextLabel_2.Text = "Revil"
 	EzHub.TextLabel_2.TextColor3 = Color3.fromRGB(190, 190, 190)
 	EzHub.TextLabel_2.TextSize = 35.000
 	EzHub.TextLabel_2.TextWrapped = true
@@ -662,7 +662,7 @@ do
 	EzHub.TextLabel_7.Position = UDim2.new(0.281449914, 0, 0.822064042, 0)
 	EzHub.TextLabel_7.Size = UDim2.new(0, 200, 0, 50)
 	EzHub.TextLabel_7.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_7.Text = "Special thanks to 0_King_0#6336 for testing"
+	EzHub.TextLabel_7.Text = "Special thanks to GubbyMaster for testing"
 	EzHub.TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_7.TextSize = 14.000
 
