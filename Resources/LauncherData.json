@@ -8,7 +8,7 @@
         "EzAPI": "Online",
         "EzLauncher": "Online"
     },
-    "LatestVersion": "https://raw.githubusercontent.com/revilbox/Revil-Hub/refs/heads/main/Resources/Hub/RevilHub.lua",
+    "LatestVersion": "https://raw.githubusercontent.com/revilbox/Revil-Hub/refs/heads/main/Resources/Hub/ReHub.lua",
     "Themes": {
         "Default": {
             "ThemeIndex": 1,
