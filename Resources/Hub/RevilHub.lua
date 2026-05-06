@@ -621,7 +621,7 @@ do
 	EzHub.TextLabel_5.Position = UDim2.new(0.285714298, 0, 0.640569389, 0)
 	EzHub.TextLabel_5.Size = UDim2.new(0, 200, 0, 43)
 	EzHub.TextLabel_5.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_5.Text = " V3rm: CDXX"
+	EzHub.TextLabel_5.Text = " Сhief developer: H1ki (revil_box)"
 	EzHub.TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_5.TextSize = 18.000
 	EzHub.TextLabel_5.TextWrapped = true
@@ -632,7 +632,7 @@ do
 	EzHub.TextLabel_6.Position = UDim2.new(0.268656731, 0, 0.555160224, 0)
 	EzHub.TextLabel_6.Size = UDim2.new(0, 213, 0, 43)
 	EzHub.TextLabel_6.Font = Enum.Font.SourceSans
-	EzHub.TextLabel_6.Text = "Discord: CEO of Africa#0591"
+	EzHub.TextLabel_6.Text = "Сreative director: GubbyMaster (Timon140415)"
 	EzHub.TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_6.TextSize = 18.000
 	EzHub.TextLabel_6.TextWrapped = true
