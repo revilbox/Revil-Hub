@@ -619,7 +619,7 @@ do
 	EzHub.TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_5.BackgroundTransparency = 1.000
 	EzHub.TextLabel_5.Position = UDim2.new(0.285714298, 0, 0.640569389, 0)
-	EzHub.TextLabel_5.Size = UDim2.new(0, 200, 0, 44)
+	EzHub.TextLabel_5.Size = UDim2.new(0, 200, 0, 45)
 	EzHub.TextLabel_5.Font = Enum.Font.SourceSans
 	EzHub.TextLabel_5.Text = " Сhief developer: H1ki (revil_box)"
 	EzHub.TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
