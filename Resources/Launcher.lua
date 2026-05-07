@@ -570,7 +570,6 @@ local allowedOverrideUsers = {
 }
 
 EzLauncher.Launch.MouseButton1Click:Connect(function()
-local provwrka = false
 	
 	-- Check if services are down
 	if not table.find(allowedOverrideUsers, game.Players.LocalPlayer.UserId) and (EzLauncher.EzHubStatusFrame.Status.Text == "Offline" or
@@ -580,7 +579,6 @@ local provwrka = false
 			EzLauncher.Launch.Text = "Service Offline";
 			wait(3);
 			EzLauncher.Launch.Text = "Launch";
-			provwrka = true
 		end)
 		return;
 	end
@@ -588,14 +586,8 @@ local provwrka = false
 	EzLauncher.Launch.Text = "Launching...";
 
 	-- Apply the theme before launching Ez Hub
-	if provwrka == true then
-		_G.EzHubTheme = themes[selectedTheme];
-		loadstring(game:HttpGet(latestVersion))();
-	else
-		warn("Revil-Hub: Failed to load Revil Hub")
-	end
-
-	provwrka = false
+	_G.EzHubTheme = themes[selectedTheme];
+	loadstring(game:HttpGet(latestVersion))();
 
 	changeElementState(false)
 
