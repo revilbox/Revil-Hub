@@ -618,7 +618,7 @@ do
 	EzHub.TextLabel_5.Parent = EzHub.AnimFrame1_2
 	EzHub.TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_5.BackgroundTransparency = 1.000
-	EzHub.TextLabel_5.Position = UDim2.new(0.285714298, 0, 0.700569389, 0)
+	EzHub.TextLabel_5.Position = UDim2.new(0.285714298, 0, 0.600569389, 0)
 	EzHub.TextLabel_5.Size = UDim2.new(0, 200, 0, 42)
 	EzHub.TextLabel_5.Font = Enum.Font.SourceSans
 	EzHub.TextLabel_5.Text = " Сreative director: GubbyMaster (Timon140415)"
@@ -629,7 +629,7 @@ do
 	EzHub.TextLabel_6.Parent = EzHub.AnimFrame1_2
 	EzHub.TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.TextLabel_6.BackgroundTransparency = 1.000
-	EzHub.TextLabel_6.Position = UDim2.new(0.268656731, 0, 0.555160224, 0)
+	EzHub.TextLabel_6.Position = UDim2.new(0.268656731, 0, 0.455160224, 0)
 	EzHub.TextLabel_6.Size = UDim2.new(0, 213, 0, 43)
 	EzHub.TextLabel_6.Font = Enum.Font.SourceSans
 	EzHub.TextLabel_6.Text = "Сhief developer: H1ki (revil_box)"
