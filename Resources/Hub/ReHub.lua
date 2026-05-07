@@ -651,7 +651,7 @@ do
 	EzHub.ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	EzHub.ImageLabel_2.BackgroundTransparency = 1.000
 	EzHub.ImageLabel_2.BorderSizePixel = 0
-	EzHub.ImageLabel_2.Position = UDim2.new(0.506172836, 0, 0.4, 0)
+	EzHub.ImageLabel_2.Position = UDim2.new(0.506172836, 0, 0.45, 0)
 	EzHub.ImageLabel_2.Size = UDim2.new(0, 82, 0, 83)
 	EzHub.ImageLabel_2.Image = "rbxassetid://4031889928"
 	EzHub.ImageLabel_2.ImageColor3 = Color3.fromRGB(41, 53, 68)
